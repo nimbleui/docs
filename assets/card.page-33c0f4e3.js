@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as t,i as e}from"./index-edaf7aea.js";const o={},d={class:"doc"},a=e("div",null,[e("h1",{class:"md-head md-head-1"},"卡片 card")],-1),_=e("div",{style:{width:"192px"}},null,-1),n=[a,_];function r(i,l){return c(),t("div",d,n)}const f=s(o,[["render",r]]);export{f as default};
